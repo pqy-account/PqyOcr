@@ -1,2 +1,5 @@
-paddleocr
+paddleocr~=2.10.0
 setuptools
+Flask~=3.1.0
+openpyxl~=3.1.5
+selenium~=4.31.0
